@@ -1,5 +1,5 @@
 - I’m interested in designing systems that are intuitive and create value for the user.
-- I’m develop mainly in C# but also in Node.js, Python and more.
+- I develop mainly in C# but also in Node.js, Python and more.
 - How to reach me: See my staff page at Linköping University (liu.se)
 
 <!---
